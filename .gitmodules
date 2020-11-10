@@ -1,0 +1,15 @@
+[submodule "navigation"]
+	path = navigation
+	url = https://github.com/utah-vexu-robotics/navigation
+[submodule "strategy"]
+	path = strategy
+	url = https://github.com/utah-vexu-robotics/strategy
+[submodule "detection"]
+	path = detection
+	url = https://github.com/utah-vexu-robotics/detection
+[submodule "tracking"]
+	path = tracking
+	url = https://github.com/utah-vexu-robotics/tracking
+[submodule "actions"]
+	path = actions
+	url = https://github.com/utah-vexu-robotics/actions
